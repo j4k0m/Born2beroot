@@ -103,3 +103,6 @@ Source: https://askubuntu.com/questions/3596/what-is-lvm-and-what-is-it-used-for
 
 # Bash Scripting:
 - https://github.com/dylanaraps/pure-bash-bible
+
+## For Linux lovers, how to create your own service:
+- https://www.youtube.com/watch?v=2gyKkgguyxE
