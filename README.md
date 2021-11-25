@@ -37,6 +37,16 @@ Aptitude is front-end to advanced packaging tool which adds a user interface to 
 - While apt-get lacks UI, Aptitude has a text-only and interactive UI
 - Aptitude has a better package management than apt-get
 
+# SSH
+SSH or Secure Shell is a network communication protocol that enables two computers to communicate (c.f http or hypertext transfer protocol, which is the protocol used to transfer hypertext such as web pages) and share data. An inherent feature of ssh is that the communication between the two computers is encrypted meaning that it is suitable for use on insecure networks.
+
+SSH provides a layer of security for information transfer between machines. Some important use cases for SSH are:
+
+- Remote access – SSH ensures encrypted remote connections for users and processes.
+- File transfers – SFTP, a secure file transfer protocol managed by SSH, provides a safe way to manipulate files over a network.
+- Tunneling – This encapsulation technique provides secure data transfers. Tunneling is useful for accessing business-sensitive online materials from unsecured networks, as it can act as a handy VPN alternative.
+- Network management – The SSH protocol manages network infrastructure and other parts of the system.
+
 ## How does virtualization work?
 Software called hypervisors separate the physical resources from the virtual environments—the things that need those resources. Hypervisors can sit on top of an operating system (like on a laptop) or be installed directly onto hardware (like a server), which is how most enterprises virtualize. Hypervisors take your physical resources and divide them up so that virtual environments can use them.
 
