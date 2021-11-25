@@ -80,6 +80,12 @@ Watch:
 # Password Policy, Why?
 Implementing a strong password policy is so important because it protects against a range of attacks. Automated password-guessing bots have become sophisticated. If hackers have managed to find the email associated with a WordPress account, they could use this software to brute force their way into the account.
 
+# Litespeed
+LiteSpeed Web Server has superior performance in terms of both raw speed and scalability. LiteSpeed is faster than Apache while serving PHP contents. It's an ideal hosting platform for serving WordPress, Joomla and Drupal based websites as it easily increases PHP's performance and security.
+
+## What is WordPress?
+WordPress is a free, open-source website creation platform. On a more technical level, WordPress is a content management system (CMS) written in PHP that uses a MySQL database. In non-geek speak, WordPress is the easiest and most powerful blogging and website builder in existence today.
+
 ## What is LVM?
 
 Benefits
