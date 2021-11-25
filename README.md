@@ -91,3 +91,6 @@ Other nice features that LVM "Logical Volumes" provide are:
 - You can create a (read-only) snapshot of any LV. You can revert the original LV to the snapshot at a later time, or delete the snapshot if you no longer need it. This is handy for server backups for instance (you cannot stop all your applications from writing, so you create a snapshot and backup the snapshot LV), but can also be used to provide a "safety net" before a critical system upgrade (clone the root partition, upgrade, revert if something went wrong).
 
 Source: https://askubuntu.com/questions/3596/what-is-lvm-and-what-is-it-used-for
+
+# Bash Scripting:
+- https://github.com/dylanaraps/pure-bash-bible
