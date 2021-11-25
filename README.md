@@ -59,6 +59,13 @@ UFW (uncomplicated firewall) is a firewall configuration tool that runs on top o
 
 More: https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands
 
+# Cron
+Cron is a standard Unix utility that is used to schedule commands for automatic execution at specific intervals. For instance, you might have a script that produces web 
+statistics that you want to run once a day automatically at 5:00 AM.
+Commands involving cron are referred to as "cron jobs."
+
+More: https://devhints.io/cron, https://crontab.guru/
+
 ## What is LVM?
 
 Benefits
