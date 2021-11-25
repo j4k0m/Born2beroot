@@ -54,6 +54,11 @@ Software called hypervisors separate the physical resources from the virtual env
 
 Source: https://www.redhat.com/en/topics/virtualization/what-is-virtualization
 
+# UFW (Uncomplicated Firewall)
+UFW (uncomplicated firewall) is a firewall configuration tool that runs on top of `iptables`. It provides a streamlined interface for configuring common firewall use cases via the command line.
+
+More: https://www.digitalocean.com/community/tutorials/ufw-essentials-common-firewall-rules-and-commands
+
 ## What is LVM?
 
 Benefits
