@@ -1,5 +1,12 @@
 # Born2beroot
 
+# Why Debian?
+- As Debian is the oldest version, it has a much mature community.
+- Debian's tested version is as stable as other distributions, and even Debian's stable distribution is rock-solid stable.
+- Debian offers the largest repository for the software as compared to any other distribution.
+- The Debian package will notify you to install another package if required for working; it is up to you to install it.
+- The installation is minimal, thus making it easier for server resources and their security.
+
 ## What is virtualization?
 Virtualization is technology that lets you create useful IT services using resources that are traditionally bound to hardware. It allows you to use a physical machine’s full capacity by distributing its capabilities among many users or environments.
 
