@@ -69,6 +69,14 @@ Commands involving cron are referred to as "cron jobs."
 
 More: https://devhints.io/cron, https://crontab.guru/
 
+# Sudo
+There are two ways to run administrative applications in Linux. You can either switch to the super user (root) with the su command, or you can take advantage of sudo. How you do this will depend upon which distribution you use. Some distributions enable the root user (such as Fedora, Red Hat, openSuSE), while some do not (such as Ubuntu and Debian). There are pros and cons for each.
+
+Sudo stands for either “substitute user do” or “super user do” (depending upon how you want to look at it). What sudo does is incredibly important and crucial to many Linux distributions. Effectively, sudo allows a user to run a program as another user (most often the root user). There are many that think sudo is the best way to achieve “best practice security” on Linux. There are some, however, that feel quite the opposite.  Regardless of where you stand, and what distribution you are currently using, there will come a time when you will have to take advantage of sudo. Whether you will need to simply use sudo or you will have to configure sudo you will want to know the ins and outs of this powerful tool.
+
+Watch:
+[![alt](https://i.ytimg.com/vi/k5VI81ttmR0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q5qMY1elbyE)
+
 ## What is LVM?
 
 Benefits
