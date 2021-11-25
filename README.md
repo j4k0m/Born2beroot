@@ -7,6 +7,11 @@
 - The Debian package will notify you to install another package if required for working; it is up to you to install it.
 - The installation is minimal, thus making it easier for server resources and their security.
 
+# Why Centos:
+- It comes with many security in-built features that help protect from cyber-attacks using SELinux. It helps to reduce the vulnerabilities of privilege escalation attacks.
+- It can support multiple management platforms like cPanel, WebMin, Docker, etc.
+- CentOS comes with a great and simple document that allows you to install and configure CentOS on your system efficiently.
+
 ## What is virtualization?
 Virtualization is technology that lets you create useful IT services using resources that are traditionally bound to hardware. It allows you to use a physical machine’s full capacity by distributing its capabilities among many users or environments.
 
