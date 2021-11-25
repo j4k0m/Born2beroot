@@ -80,8 +80,8 @@ Watch:
 # Password Policy, Why?
 Implementing a strong password policy is so important because it protects against a range of attacks. Automated password-guessing bots have become sophisticated. If hackers have managed to find the email associated with a WordPress account, they could use this software to brute force their way into the account.
 
-# Litespeed
-LiteSpeed Web Server has superior performance in terms of both raw speed and scalability. LiteSpeed is faster than Apache while serving PHP contents. It's an ideal hosting platform for serving WordPress, Joomla and Drupal based websites as it easily increases PHP's performance and security.
+# Lighttpd
+What is Lighttpd? Lighttpd, or Lighty, as it is affectionately called, is an extensible, modular, low-footprint, single-threaded, high performance, web server that will happily run on small servers, and outperform an Apache server or Microsoft IIS in most settings. Lighttpd powers many large sites, such as the YouTube video download servers and the image upload server of Wikipedia. At the time of this writing, Lighttpd has the fifth place in the netcraft web server top ten. The plugin architecture encourages developing custom modules and trying new ideas. The development community around Lighttpd is friendly, helpful and pragmatic, and the documentation, though a little scattered, is quite thorough, if you know where to look.
 
 ## What is WordPress?
 WordPress is a free, open-source website creation platform. On a more technical level, WordPress is a content management system (CMS) written in PHP that uses a MySQL database. In non-geek speak, WordPress is the easiest and most powerful blogging and website builder in existence today.
