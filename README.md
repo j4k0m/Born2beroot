@@ -77,6 +77,9 @@ Sudo stands for either “substitute user do” or “super user do” (dependin
 Watch:
 [![alt](https://i.ytimg.com/vi/k5VI81ttmR0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Q5qMY1elbyE)
 
+# Password Policy, Why?
+Implementing a strong password policy is so important because it protects against a range of attacks. Automated password-guessing bots have become sophisticated. If hackers have managed to find the email associated with a WordPress account, they could use this software to brute force their way into the account.
+
 ## What is LVM?
 
 Benefits
