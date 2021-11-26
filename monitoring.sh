@@ -20,7 +20,7 @@ wall "  #Architecture: $(uname -a)
         #Disk Usage: $DISK_USED/$DISK_TOTAL ($DISK_PRE)
         #CPU load: $CPU_USAGE%
         #Last boot: $DATE $HOUR
-        #LVM use: $(if [ $LVM -eq 0 ]; then printf 'yes'; else printf 'no'; fi)
+        #LVM use: $(if [ $LVM -eq 0 ]; then printf 'no'; else printf 'yes'; fi)
         #Connexions TCP : $(ss | grep tcp | grep ESTAB | wc -l) ESTABLISHED
         #User log: $(w -h | awk '{print $1}' | uniq | wc -l)
         #Network: IP $IP ($MAC)
