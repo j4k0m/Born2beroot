@@ -22,7 +22,7 @@ wall "  #Architecture: $(uname -a)
         #Last boot: $DATE $HOUR
         #LVM use: $(if [ $LVM -eq 0 ]; then printf 'no'; else printf 'yes'; fi)
         #Connexions TCP : $(ss | grep tcp | grep ESTAB | wc -l) ESTABLISHED
-        #User log: $(w -h | awk '{print $1}' | uniq | wc -l)
+        #User log: $(w -h | awk '{print $1}' | sort | uniq | wc -l)
         #Network: IP $IP ($MAC)
         #Sudo : $(cat /var/log/sudo/sudo_log | grep TTY | wc -l) cmd
 "
